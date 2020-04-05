@@ -1,0 +1,26 @@
+# 2020.03.26
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=2,deaths=0,recovered=0 1585180800000
+# 2020.03.27
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=8,deaths=0,recovered=0 1585267200000
+# 2020.03.28
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=8,deaths=0,recovered=0 1585353600000
+# 2020.03.29
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=8,deaths=0,recovered=0 1585440000000
+# 2020.03.30
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=13,deaths=0,recovered=0 1585526400000
+# 2020.03.31
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=19,deaths=0,recovered=0 1585612800000
+# 2020.04.01
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=25,deaths=0,recovered=0 1585699200000
+# 2020.04.02
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=30,deaths=0,recovered=0 1585785600000
+# 2020.04.03
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=31,deaths=0,recovered=0 1585872000000
+# 2020.04.04
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=35,deaths=0,recovered=0 1585958400000
+# 2020.04.05
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=35,deaths=0,recovered=0 1586044800000
+
+# EVENTS
+# 2020.03.30
+covid19 annotation="Russia Quarantine" 1585526400000
