@@ -1,4 +1,6 @@
 # Source  t.me/burcovid
+# 2020.03.25
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=0,deaths=0,recovered=0 1585180800000
 # 2020.03.26
 covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=2,deaths=0,recovered=0 1585180800000
 # 2020.03.27
