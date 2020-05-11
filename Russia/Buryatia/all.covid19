@@ -93,6 +93,9 @@ covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=548,deaths=4,recovered
 covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=570,deaths=5,recovered=171 1588982400000
 # 2020.05.10
 covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=620,deaths=5,recovered=177 1589068800000
+# 2020.05.11
+covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=659,deaths=5,recovered=191 1589155200000
+
 
 # EVENTS
 # 2020.03.30
