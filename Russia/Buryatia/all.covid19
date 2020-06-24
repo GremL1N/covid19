@@ -188,3 +188,5 @@ covid19,country=Russia,state=Buriatya,city=Ulan-Ude cases=2731,deaths=19,recover
 covid19 annotation="Russia Quarantine" 1585526400000 
 # 2020.05.12
 covid19 annotation="Russia Quarantine Mitigation" 1589241600000 
+# 2020.07.01
+covid19 annotation="Russia VOTE" 1593561600000
